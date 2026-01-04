@@ -9,7 +9,7 @@ Vendor Audit QM Notification Q2
             The repository contains business explanation, process flow, configuration overview, test data, and documentation, making it easy for beginners and interviewers to understand.
 
 
-How to Use This Project
+How to Use This Repository
 
             Read the Business Scenario  
             Review the Process Flow Diagram
