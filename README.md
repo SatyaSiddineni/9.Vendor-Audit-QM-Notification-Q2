@@ -85,7 +85,7 @@ Vendor Audit QM Notification Q2
              │     └── Step-by-Step Transaction Execution.pdf
              │
              ├── Flowchart/
-             │     └── QM CERT Process Flow.png
+             │     └── Vendor Audit Process Flow.png
              │
              └── Test_Data/
                    └── Vendor audit test data.xlsx
