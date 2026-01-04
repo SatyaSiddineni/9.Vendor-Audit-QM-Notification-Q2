@@ -1,5 +1,13 @@
 Vendor Audit QM Notification Q2
 
+How to Use This Project
+
+            Read the Business Scenario  
+            Review the Process Flow  
+            Open the Test_Data Excel  
+            Use the Documents PDF for configuration guidance  
+            Understand transaction steps for QM01, QM02, QM03
+
 1. Project Overview 
 
             This project demonstrates how an SAP QM Functional Consultant designs and implements a Vendor Audit management process using Quality Notifications (Type Q2).
